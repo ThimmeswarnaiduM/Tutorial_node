@@ -1,0 +1,1 @@
+here is the result: Hello These my First Node Text Files text-1, Hello These my second text Node file text-2
